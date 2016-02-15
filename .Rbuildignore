@@ -1,3 +1,5 @@
 zzz.R
 local
 .travis.yml
+^.*\.Rproj$
+^\.Rproj\.user$
